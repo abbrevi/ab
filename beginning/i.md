@@ -38,7 +38,7 @@ b: You've already lost me.
 
 a: Good, then I've won. You owe me a beer.
 
-b: What do you mean, you've won? We havn't made a bet and this is no competition.
+b: What do you mean, you've won? We haven't made a bet and this is no competition.
 
 a: But you could buy me a beer?
 
