@@ -22,6 +22,8 @@ His own views:
 
 > Technik ist eben nichts anderes als die Überwindung der Natur durch das menschliche Bewußtsein.[^7]
 
+>Die Natur auf dieser Erde aber hat nur noch eine letzte Chance: wenn der Mensch die nunmehr gebotene ökotechnologische Wende nicht vollzieht, wird er gemäß ökologischen Prinzipien über kurz oder lang eliminiert werden; dann und nur dann wird es wieder Natur geben. Wenn jedoch die Menschen die Hege und Pflege des irdischen Ökosystems mit der erforderlichen Konsequenz vervollkommen, so bedeutet dies nicht mehr und nicht weniger als das Ende der Natur.[^8]
+
 [^1]: Ropohl, p. 91
 [^2]: Ropohl, p. 92
 [^3]: Ropohl, p. 92
@@ -29,3 +31,4 @@ His own views:
 [^5]: Ropohl, p. 94
 [^6]: Ropohl, p. 94
 [^7]: Ropohl, p. 95
+[^8]: Ropohl, p. 98
