@@ -17,8 +17,15 @@ Zu Ernst Bloch: (_Das Prinzip Hoffnung_, (1959) 5. Aufl. Frankfurt 1978 - geschr
 Und zu Heidegger (_Die Technik und die Kehre_ (1962) 4. Aufl. Pfullingen 1978): 
 > Der bezeichnet das technische Machen, dessen Teil ja die Erfindung ist, als ein "Her-vor-bringen" und fähr dann vorschnell fort: "Das Her-vor-bringen bringt aus der Verborgenheit her in die Unverborgenheit vor".[S. 11] Statt also das Hervorbringen als einen kreativen Akt aufzufassen, der technischen Lösungen vom Nicht-Sein zum Sein bringt, der sie, mit anderen Worten, überhaupt erst konstituiert, unsterstellt auch Heidegger etwas Außermenschlich-Vorgängiges: die Verborgenheit [...]. So sieht Heidegger das Entscheidende der Technik nicht im Machen, sondern im "Entbergen"; und die resultierende "Unverborgenheit" deutet er auch noch als "Wahrheit"[S. 15] [...] Wenn auch bei Heidegger unentschieden bleibt, ob die Verborgenheit idealistisch wie bei Dessauer oder materialistisch wie bei Bloch zu verstehen ist, teit er doch mit jenen den Irrglauben, der Mensch könne nichts erfinden, was nicht schon von sich aus, aller menschlichen Kreativität vorausgehend, präexistent sei.
 
-[^1]: Ropohl, p. 91.
+His own views:
+>... ich [fasse] meinerseits die Erfindung als originäre, gegennatürliche Leistung des menschlichen Bewußtseins [auf].[^6]
+
+> Technik ist eben nichts anderes als die Überwindung der Natur durch das menschliche Bewußtsein.[^7]
+
+[^1]: Ropohl, p. 91
 [^2]: Ropohl, p. 92
 [^3]: Ropohl, p. 92
 [^4]: Ropohl, p. 93
 [^5]: Ropohl, p. 94
+[^6]: Ropohl, p. 94
+[^7]: Ropohl, p. 95
