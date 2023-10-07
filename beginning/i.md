@@ -44,4 +44,11 @@ a: But you could buy me a beer?
 
 b: Well, alright.
 
+---
+a: Let's see, how can I put it to make you understand? 
+
+b: I do understand, I just don' t agree. 
+
+a: There is always more to understand. 
+
 [^1]: Ropohl, Günther: "Technik als Gegennatur", in: *Natur als Gegenwelt. Beiträge zur Kulturgeschichte der Natur*, Götz Großklaus and Ernst Oldemayer (ed.), Karlsruhe: von Loeper 1983, p. 91f.
