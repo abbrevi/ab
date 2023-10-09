@@ -24,7 +24,7 @@ a: Overcoming nature.
 b: Oh, that.
 
 a: Yes, that.
-Listen, he quotes Friedrich Dessauer in 1927 stating that an invention is not simply something made up by the human mind, but rather something the inventor has found. It was actually already there, waiting for its inventor to find it and bring it to our world. And then he dismisses that as bullshit, even making fun of it, not really admitting he is though, just saying he is tempted to, and so doing just that.[^1]
+Listen, he quotes Friedrich Dessauer in 1927 stating that an invention is not simply something made up by the human mind, but rather something the inventor has found. It was actually already there, waiting for its inventor to find it and bring it to our world. And then he dismisses that as bullshit, even making fun of it, not really admitting he is though, just saying he is tempted to, and thus doing just that.[^1]
 
 b: Well, it certainly sounds like bullshit to me.
 
@@ -44,11 +44,5 @@ a: But you could buy me a beer?
 
 b: Well, alright.
 
----
-a: Let's see, how can I put it to make you understand? 
-
-b: I do understand, I just don' t agree. 
-
-a: There is always more to understand. 
 
 [^1]: Ropohl, Günther: "Technik als Gegennatur", in: *Natur als Gegenwelt. Beiträge zur Kulturgeschichte der Natur*, Götz Großklaus and Ernst Oldemayer (ed.), Karlsruhe: von Loeper 1983, p. 91f.
