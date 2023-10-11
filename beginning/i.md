@@ -15,9 +15,9 @@ a: Why not?
 
 b: Because there's nothing in it. What's the shift?
 
-a: That's what I've been talking about all the time, don't you ever listen?
+a: That's what I've been talking about all the time, why aren't you listening?
 
-b: Of course I do, whenever you say something interesting. What's the shift?
+b: I am, whenever you say something interesting. What's the shift?
 
 a: Overcoming nature.
 
