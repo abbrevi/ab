@@ -1,5 +1,5 @@
 # I
-a: I really like this article, let's start off with that.
+a: I really like this article, let's start with that.
 
 b: You're gonna start with that?
 
