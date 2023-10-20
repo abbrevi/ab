@@ -18,9 +18,9 @@ a: Through the concept of organicity, to start with, in social theory and the ar
 
 b: But you wouldn't find any metaphysical concepts of truth as natural in the sense of *naturgegeben* in that, would you?
 
-a: Probably not, we'll see. Speaking of that, what actually happens with all things considered *naturgegeben* when we have overcome nature? Do they survive, do they change, do they lose importance, or what? What about something like *Naturrecht*, which has had a fundamental impact on the concept of human rights?
+a: Probably not, we'll see. Speaking of that, what happens with things considered *naturgegeben* when we have overcome nature? Do they survive, do they change, do they lose importance, or what? What about something like *Naturrecht*, which has had a fundamental impact on the concept of human rights?
 
-b: Interesting question. But even if you find out that these things have changed fundamentally, it doesn't mean that had anything to do with our "overcoming nature" as you put it. Everything changes all the time, for a great number of reasons. And you still have to establish, that we really have overcome nature in the sense you mean, that this "shift" of yours has actually happened.
+b: Interesting question. But even if you find that these things have changed fundamentally, it doesn't mean that had anything to do with our "overcoming nature" as you put it. Everything changes all the time, for a great number of reasons. And you still have to establish, that we really have overcome nature in the sense you mean, that this "shift" of yours has actually happened.
 
 a: True, that will be a interesting chapter. And by the way, what happens to the natural sciences when our relationship to nature fundamentally changes? Are they about something entirely different today than a hundred years ago?
 
