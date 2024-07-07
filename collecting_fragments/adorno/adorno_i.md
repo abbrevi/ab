@@ -1,7 +1,7 @@
 a: I don't know how to begin this so I'll just start.
 > Jeder Versuch, den Naturzwang zu brechen, indem Natur gebrochen wird, gerät nur um so tiefer in den Naturzwang hinein. So ist die Bahn der europäischen Zivilisation verlaufen.[^DA1]
 
-a: This is sort of the essential core of Adornos and Horkheimers *Dialektik der Aufklärung*, and it is simply very intriguing. If we for starters compare it with the quotes from Ropohl at the beginning, where he e.g. means that the ecological movement only "auf die fortschreitende Technisierung der Natur hinausläuft"[Rophol1], it at the first glance seems Adorno and Horkheimer are saying quite the opposite. At a second glance, you might think they are basically saying the same thing, just in different words, and at a third, that you can't really compare it, since they are using an entirely different concept of nature.
+a: This is sort of the essential core of Adornos and Horkheimers *Dialektik der Aufklärung*, and it is simply very intriguing. If we for starters compare it with the quotes from Ropohl at the beginning, where he e.g. means that the ecological movement only "auf die fortschreitende Technisierung der Natur hinausläuft"[^Rophol1], it at the first glance seems Adorno and Horkheimer are saying quite the opposite. At a second glance, you might think they are basically saying the same thing, just in different words, and at a third, that you can't really compare it, since they are using an entirely different concept of nature.
 
 b: Are they?
 
@@ -20,4 +20,4 @@ b: And you are of course aware, that you could never understand Adorno without M
 a: Sure, this will be very interesting.
 
 [^DA1]: Adorno/Horkheimer, *Dialektik der Aufklärung*, p. 19
-[Rophol1]: Ropohl, p. 87
+[^Rophol1]: Ropohl, p. 87
